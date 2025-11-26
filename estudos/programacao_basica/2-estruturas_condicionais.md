@@ -54,3 +54,11 @@ if (numero > 0) {
     cout << "Zero";
 }
 ```
+
+## Operadores lógicos
+
+Os operadores lógicos são usados para combinar e modificar expressões booleanas, existem três principais:
+
+- **&& (AND):** Retorna `true` se as duas expressões forem **verdadeiras** e `false` se ao menos uma for **falsa**.
+- **|| (OR):** Retorna `true` se ao menos uma for **verdadeira** e `false` se as duas expressões forem **falsas**.
+- **! (NOT):** Inverte o valor lógico.
