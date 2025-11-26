@@ -19,8 +19,8 @@ A sintaxe básica de um `if` em C++ é:
 
 ``` cpp
 if (condicao) {
-  // o código dentro das chaves é executado caso a expressão
-  // dentro dos parênteses seja verdadeira (diferente de zero)
+    // o código dentro das chaves é executado caso a expressão
+    // dentro dos parênteses seja verdadeira (diferente de zero)
 }
 ```
 
@@ -34,5 +34,23 @@ if (nota >= 7) {
 }
 if (nota < 7) {
     cout << "Reprovado\n";
+}
+```
+
+---
+
+Além do `if` existe o `else` e o `else if`.
+
+- **Else if:** É utilizado quando existem mais condições.
+- **Else:** É utilizado como ultima condição. 
+
+``` cpp
+int numero;
+if (numero > 0) {
+    cout << "Positivo";
+} else if (numero < 0) {
+    cout << "Negativo";
+} else {
+    cout << "Zero";
 }
 ```
