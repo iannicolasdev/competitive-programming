@@ -1,5 +1,6 @@
-// Olá CodCad!
-// https://neps.academy/br/exercise/212
+// Exercício: Olá CodCad!
+// Dificuldade: Super Fácil
+// Link: https://neps.academy/br/exercise/212
 
 #include <iostream>
 

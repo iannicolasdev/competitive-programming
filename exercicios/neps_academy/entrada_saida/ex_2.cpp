@@ -1,5 +1,6 @@
-// Média Inteira
-// https://neps.academy/br/exercise/136
+// Exercício: Média Inteira
+// Dificuldade: Super Fácil
+// Link: https://neps.academy/br/exercise/136
 
 #include <iostream>
 

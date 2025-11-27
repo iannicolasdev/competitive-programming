@@ -1,5 +1,6 @@
-// Olá Neps Academy
-// https://neps.academy/br/exercise/1
+// Exercício: Olá Neps Academy
+// Dificuldade: Super Fácil
+// Link: https://neps.academy/br/exercise/1
 
 #include <iostream>
 
