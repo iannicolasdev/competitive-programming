@@ -32,7 +32,7 @@ Contando de 1 até 10:
 int n = 1;
 
 while (n <= 10) {
-    cout << n << "\n;
+    cout << n << "\n";
     i++;
 }
 // SAÍDA: 1 2 3 4 5 6 7 8 9 10
